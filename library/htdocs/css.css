@@ -1,0 +1,4 @@
+*{padding:0px;margin:0px;}
+.cate{width:430px;border:1px solid #0F0;display:inline-block;position:relative;overflow:hidden;}
+.list_item > img{float:left;max-width:150px;margin:30px;}
+.cate_menu div{float:right;padidng:20px;margin:3px;cursor:pointer;}
